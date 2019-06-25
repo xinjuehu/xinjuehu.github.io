@@ -1,3 +1,4 @@
+![Image of Yaktocat](https://github.com/hxj121314/hxj_bupt.github.com/blob/master/DSC_1823.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hxj121314/hxj_bupt.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
