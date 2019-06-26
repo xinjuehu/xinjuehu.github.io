@@ -1,6 +1,5 @@
 ## Ph.D. Student (Second year)
- **School of Information and Communication Engineering**
-
+ **School of Information and Communication Engineering** <br>
  **Beijing University of Posts and Telecommunications**
 
 <dl>
