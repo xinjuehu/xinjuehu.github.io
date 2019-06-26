@@ -15,6 +15,7 @@
 </dl>
 
 ## Education
+
 |       Peroid        |      School       | Major | Degree |
 |:--------------------|:------------------|:------|:-------|
 | Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor |
