@@ -16,7 +16,7 @@
 
 ## Education
 
-|       Peroid        |      School       | Major | Degree |
-|:--------------------|:------------------|:------|:-------|
+|       Peroid              |      School       | Major | Degree |
+|:--------------------------|:---------------------------|:--------------|:------------|
 | Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor |
 | Jun.2017 ~ Present  | Beijing University of Posts and Telecommunications | Information and Communication Engineering  | Ph.D. (ongoing) |
