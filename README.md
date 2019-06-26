@@ -21,7 +21,7 @@
 | Jun.2017 ~ Present  | Beijing University of Posts and Telecommunications | Information and Communication Engineering  | Ph.D. (ongoing) |
 
 ## Publication
-1.  **Hu, X.**, Shan, J., Liu, Y., & Zhang, L. (2019, June). Adaptive two-layer light field compression scheme based on sparse reconstruction. In Proceedings of the 10th ACM Multimedia Systems Conference (pp. 74-85). ACM. [MMsys'19]
+1.  **Hu, X.**, Shan, J., Liu, Y., & Zhang, L. (2019, June). Adaptive two-layer light field compression scheme based on sparse reconstruction. In Proceedings of the 10th ACM Multimedia Systems Conference (pp. 74-85). ACM. [MMsys'19](https://dl.acm.org/citation.cfm?id=3306228)
 2.  Zhang, X., **Hu, X.**, Zhong, L., Shirmohammadi, S., & Zhang, L. (2018). Cooperative Tile-based 360-degree Panoramic Streaming in Heterogeneous Networks using Scalable Video Coding. IEEE Transactions on Circuits and Systems for Video Technology. [TCSVT]
 3.  **Hu, X.**, Quan, W., Guo, T., Liu, Y., & Zhang, L. (2019). Mobile Edge Assisted Live Streaming System for Omnidirectional Video. Mobile Information Systems,2019.
 4.  Jinming, S., **Xinjue, H.**, Yu, L., & Zhang, L. (2018, August). Adaptive Parameters Estimation for Light Field Reconstruction using Shearlet Transform. In2018 International Conference on Network Infrastructure and Digital Content (IC-NIDC) (pp. 125-129). IEEE.
