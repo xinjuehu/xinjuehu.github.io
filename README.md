@@ -1,6 +1,9 @@
-## Xinjue Hu
-
-Ph.D. student in the second year (five-year program). Looking for the chance to exchange and communication.
+# Xinjue Hu
+### Ph.D. Student
+### School of Information and Communication Engineering
+### Beijing University of Posts and Telecommunications
+Ph.D. student of BUPT in the second year (five-year program).
+I'm Looking for the chance to exchange and communication.
 
 
 ### Markdown
