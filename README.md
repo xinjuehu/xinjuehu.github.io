@@ -1,4 +1,4 @@
-## Ph.D. Student (Second year)
+## Ph.D. Student
  **School of Information and Communication Engineering** <br>
  **Beijing University of Posts and Telecommunications** <br>
  No.10 Xitucheng Road, Haidian District, Beijing, P.R.China 100876
