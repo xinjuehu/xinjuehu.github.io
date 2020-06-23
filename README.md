@@ -1,7 +1,7 @@
-## Ph.D. Student
- **School of Information and Communication Engineering** <br>
- **Beijing University of Posts and Telecommunications** <br>
- No.10 Xitucheng Road, Haidian District, Beijing, P.R.China 100876
+## Cotutelle Ph.D. Student
+ **Beijing University of Posts and Telecommunications (BUPT)** <br>
+ **University of Ottawa (uOttawa)** <br>
+ Supervisor: Prof. Lin Zhang (BUPT), Prof. Shervin Shirmohammadi (uOttawa)
 
 <dl>
 <dt>Born</dt>
@@ -12,6 +12,10 @@
 <dd>+86 13720375191</dd>
 <dt>Email</dt>
 <dd>huxinjue@bupt.edu.cn</dd>
+<dd>xhu009@uottawa.ca</dd>
+<dt>Website</dt>
+<dd>https://scholar.google.com/citations?user=xOKxWXQAAAAJ&hl=en</dd>
+<dd>https://www.researchgate.net/profile/Xinjue_Hu</dd>
 </dl>
 
 ## Education
