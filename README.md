@@ -16,10 +16,12 @@
 
 ## Education
 
-|       Peroid              |      School       | Major | Degree |
+|       Peroid              |      School       | Major | Degree/Position |
 |:--------------------------|:---------------------------|:--------------|:------------|
 | Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor |
-| Jun.2017 ~ Present  | Beijing University of Posts and Telecommunications | Information and Communication Engineering  | Ph.D. (ongoing) |
+| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. Student |
+| Sep.2020 ~ Present (Expect to Jun.2022)  | University of Ottawa & BUPT | Electrical and Computer Engineering | Cotutelle Ph.D. Student |
+
 
 ## Publication
 1.  **Hu, X.**, Shan, J., Liu, Y., & Zhang, L. (2019, June). _Adaptive two-layer light field compression scheme based on sparse reconstruction_. In Proceedings of the 10th ACM Multimedia Systems Conference (pp. 74-85). ACM. [MMsys'19](https://dl.acm.org/citation.cfm?id=3306228)
