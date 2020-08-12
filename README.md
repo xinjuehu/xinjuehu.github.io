@@ -14,14 +14,11 @@
 <dd>huxinjue@bupt.edu.cn</dd>
 <dd>xhu009@uottawa.ca</dd>
 <dt>Website</dt>
-<dd>[Google Scholar][1]:</dd>
+<dd>Google Scholar:</dd>
 <dd>(https://scholar.google.com/citations?user=xOKxWXQAAAAJ&hl=en)</dd>
-<dd>[Research Gate][2]:</dd>
+<dd>Research Gate:</dd>
 <dd>(https://www.researchgate.net/profile/Xinjue_Hu)</dd>
 </dl>
-[1]:https://scholar.google.com/citations?user=xOKxWXQAAAAJ&hl=en
-[2]:https://www.researchgate.net/profile/Xinjue_Hu
-
 
 ## Education
 
