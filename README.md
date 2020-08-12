@@ -19,6 +19,7 @@
 <dd>Research Gate:</dd>
 <dd>(https://www.researchgate.net/profile/Xinjue_Hu)</dd>
 </dl>
+[Scholar](https://scholar.google.com/citations?user=xOKxWXQAAAAJ&hl=en)  [ResearchGate](https://www.researchgate.net/profile/Xinjue_Hu)
 
 ## Education
 
