@@ -12,7 +12,7 @@
 <dd>+86 13720375191</dd>
 <dt>Email</dt>
 <dd>huxinjue@bupt.edu.cn</dd>
-<dd>xhu009@uottawa.ca</dd>
+<dd>Xinjue.Hu@uottawa.ca</dd>
 </dl>
 [\[Scholar\]](https://scholar.google.com/citations?user=xOKxWXQAAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
