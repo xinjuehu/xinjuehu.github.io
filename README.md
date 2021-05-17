@@ -14,7 +14,7 @@
 <dd>huxinjue@bupt.edu.cn</dd>
 <dd>Xinjue.Hu@uottawa.ca</dd>
 </dl>
-[\[Scholar\]](https://scholar.google.com/citations?user=xOKxWXQAAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
+[\[Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
 ## Education
 
