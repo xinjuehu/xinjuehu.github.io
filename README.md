@@ -1,4 +1,4 @@
-## Cotutelle Ph.D. Student
+## Cotutelle Ph.D. Candidate
  **Beijing University of Posts and Telecommunications (BUPT)** <br>
  **University of Ottawa (uOttawa)** <br>
  Supervisor: Prof. Lin Zhang (BUPT), Prof. Shervin Shirmohammadi (uOttawa)
@@ -22,8 +22,8 @@
 |       Peroid              |      School       | Major | Degree/Position |
 |:--------------------------|:---------------------------|:--------------|:------------|
 | Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor |
-| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. Student |
-| Sep.2020 ~ Present (Expect to Jun.2022)  | University of Ottawa & BUPT | Electrical and Computer Engineering | Cotutelle Ph.D. Student |
+| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. Candidate |
+| Sep.2020 ~ Present (Expect to Jun.2022)  | University of Ottawa & BUPT | Electrical and Computer Engineering | Cotutelle Ph.D. Candidate |
 
 
 ## Publication
