@@ -20,7 +20,7 @@
 |:--------------------------|:---------------------------|:--------------|:------------|
 | Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor |
 | Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. Candidate |
-| Sep.2020 ~ Present (Expect to 2022)  | University of Ottawa & BUPT | Electrical and Computer Engineering | Cotutelle Ph.D. Candidate (Dual Doctor Degree) |
+| Sep.2020 ~ Present (Expect to 2022)  | University of Ottawa & BUPT | Electrical and Computer Engineering | Cotutelle Ph.D. Candidate (Dual Doctoral Degree) |
 
 
 ## Publication
