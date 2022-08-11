@@ -1,7 +1,7 @@
 ## Cotutelle Ph.D. Candidate
- **Beijing University of Posts and Telecommunications (BUPT)** <br>
  **University of Ottawa (uOttawa)** <br>
- Supervisor: Prof. Lin Zhang (BUPT), Prof. Shervin Shirmohammadi (uOttawa)
+ **Beijing University of Posts and Telecommunications (BUPT)** <br>
+ Supervisor: Prof. Shervin Shirmohammadi (uOttawa), Prof. Lin Zhang (BUPT)
 
 <dl>
 <dt>Born</dt>
@@ -9,8 +9,8 @@
 <dt>Birthplace</dt>
 <dd>Wuhan, China</dd>
 <dt>Email</dt>
-<dd>huxinjue@bupt.edu.cn</dd>
 <dd>Xinjue.Hu@uottawa.ca</dd>
+<dd>huxinjue@bupt.edu.cn</dd>
 </dl>
 [\[Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
