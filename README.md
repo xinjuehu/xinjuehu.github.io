@@ -9,8 +9,7 @@
 <dt>Birthplace</dt>
 <dd>Wuhan, China</dd>
 <dt>Email</dt>
-<dd>Xinjue.Hu@uottawa.ca</dd>
-<dd>huxinjue@bupt.edu.cn</dd>
+<dd>[Xinjue.Hu@uottawa.ca](Xinjue.Hu@uottawa.ca), [huxinjue@bupt.edu.cn](huxinjue@bupt.edu.cn)</dd>
 <dt>Research Interests</dt>
 <dd>Multimedia, Immersive Media, Light Field, Virtual Reality, Applied AI.</dd>
 </dl>
