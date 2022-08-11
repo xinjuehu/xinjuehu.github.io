@@ -11,6 +11,8 @@
 <dt>Email</dt>
 <dd>Xinjue.Hu@uottawa.ca</dd>
 <dd>huxinjue@bupt.edu.cn</dd>
+<dt>Research Interests</dt>
+<dd>Multimedia, Immersive Media, Light Field, Virtual Reality, Applied AI.</dd>
 </dl>
 [\[Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
