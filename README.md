@@ -1,7 +1,6 @@
-## Cotutelle Ph.D. Candidate
- **University of Ottawa (uOttawa)** <br>
- **Beijing University of Posts and Telecommunications (BUPT)** <br>
- Supervisor: Prof. Shervin Shirmohammadi (uOttawa), Prof. Lin Zhang (BUPT)
+## Assistant Reseacher
+ **Intelligent Transportation System Research Center** <br>
+ **Wuhan University of Technology** <br>
 
 <dl>
 <dt>Born</dt>
@@ -9,7 +8,7 @@
 <dt>Birthplace</dt>
 <dd>Wuhan, China</dd>
 <dt>Email</dt>
-<dd><a href="mailto:xinjue.hu@uottawa.ca">Xinjue.Hu@uottawa.ca</a>, <a href="mailto:huxinjue@bupt.edu.cn">huxinjue@bupt.edu.cn</a></dd>
+<dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:xinjue.hu@uottawa.ca">Xinjue.Hu@uottawa.ca</a></dd>
 <dt>Research Interests</dt>
 <dd>Multimedia, Immersive Media, Light Field, Virtual Reality, Applied AI.</dd>
 </dl>
@@ -17,11 +16,11 @@
 
 ## Education
 
-|       Peroid              |      School       | Major | Degree/Position |
-|:--------------------------|:---------------------------|:--------------|:------------|
-| Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor |
-| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. (Dual Doctoral Degree)| Supervisor: Prof. Lin Zhang |
-| Sep.2020 ~ Present (Expect to 2022)  | University of Ottawa | Electrical and Computer Engineering | Ph.D. (Dual Doctoral Degree) | Supervisor: Prof. Shervin Shirmohammadi |
+|       Peroid              |      School       | Major | Degree/Position | Supervisor |
+|:--------------------------|:---------------------------|:--------------|:------------|:------------|
+| Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor | None |
+| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. (Dual Doctoral Degree)| Lin Zhang |
+| Sep.2020 ~ Present (Expect to 2022)  | University of Ottawa | Electrical and Computer Engineering | Ph.D. (Dual Doctoral Degree) | Shervin Shirmohammadi |
 
 
 ## Publication
