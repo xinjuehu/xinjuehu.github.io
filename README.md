@@ -15,8 +15,8 @@
 |       Peroid              |      School       | Major | Degree/Position | Supervisor |
 |:--------------------------|:---------------------------|:--------------|:------------|:------------|
 | Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor | None |
-| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. (Dual Doctoral Degree)| Lin Zhang |
-| Sep.2020 ~ Present (Expect to 2022)  | University of Ottawa | Electrical and Computer Engineering | Ph.D. (Dual Doctoral Degree) | Shervin Shirmohammadi |
+| Jun.2017 ~ Nov.2022 | Beijing University of Posts and Telecommunications | Information and Communication Engineering  | Ph.D. | Lin Zhang |
+| Sep.2020 ~ Dec.2022 | University of Ottawa | Electrical and Computer Engineering | Ph.D. (Second Doctoral Degree) | Shervin Shirmohammadi |
 
 
 ## Publication
