@@ -3,10 +3,6 @@
  **Wuhan University of Technology** <br>
 
 <dl>
-<dt>Born</dt>
-<dd>1995</dd>
-<dt>Birthplace</dt>
-<dd>Wuhan, China</dd>
 <dt>Email</dt>
 <dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:xinjue.hu@uottawa.ca">Xinjue.Hu@uottawa.ca</a></dd>
 <dt>Research Interests</dt>
