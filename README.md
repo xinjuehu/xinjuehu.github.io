@@ -10,7 +10,7 @@
 <dt>Email</dt>
 <dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:xinjue.hu@uottawa.ca">Xinjue.Hu@uottawa.ca</a></dd>
 <dt>Research Interests</dt>
-<dd>Multimedia, Immersive Media, Light Field, Virtual Reality, Applied AI.</dd>
+<dd>Immersive Media, Light Field, Virtual Reality, Smart Vessel, Vessel-Shore Communication, Vessel Remote Driving.</dd>
 </dl>
 [\[Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
