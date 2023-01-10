@@ -20,8 +20,8 @@
 |       Peroid              |      School       | Major | Degree/Position |
 |:--------------------------|:---------------------------|:--------------|:------------|
 | Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor |
-| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. Candidate |
-| Sep.2020 ~ Present (Expect to 2022)  | University of Ottawa & BUPT | Electrical and Computer Engineering | Cotutelle Ph.D. Candidate (Dual Doctoral Degree) |
+| Jun.2017 ~ Sep.2020  | Beijing University of Posts and Telecommunications (BUPT) | Information and Communication Engineering  | Ph.D. (Dual Doctoral Degree)| Supervisor: Prof. Lin Zhang |
+| Sep.2020 ~ Present (Expect to 2022)  | University of Ottawa | Electrical and Computer Engineering | Ph.D. (Dual Doctoral Degree) | Supervisor: Prof. Shervin Shirmohammadi |
 
 
 ## Publication
