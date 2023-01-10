@@ -25,7 +25,7 @@
 
 
 ## Publication
-1.  **Hu, X.**, Wang, C., Zhang, L., Chen, G., & Shirmohammadi, S. (2022). Edge-Assisted Virtual Viewpoint Generation for Immersive Light Field. IEEE Multimedia. under Minor Revision.
+1.  **Hu, X.**, Wang, C., Zhang, L., Chen, G., & Shirmohammadi, S. (2022). Edge-Assisted Virtual Viewpoint Generation for Immersive Light Field. IEEE Multimedia. [IEEE-MM](https://ieeexplore.ieee.org/document/10002420)
 2.  **Hu, X.**, Pan, Y., Wang, Y., Zhang, L., & Shirmohammadi, S. (2021). Multiple Description Coding for Best-Effort Delivery of Light Field Video using GNN-based Compression. IEEE Transactions on Multimedia. [TMM](https://ieeexplore.ieee.org/abstract/document/9625786)
 3.  **Hu, X.**, Wang, C., Pan, Y., Liu, Y., Wang, Y., Liu, Y., ... & Shirmohammadi, S. (2021, June). 4DLFVD: A 4D Light Field Video Dataset. In Proceedings of the 12th ACM Multimedia Systems Conference (pp. 287-292). [MMsys'21](https://dl.acm.org/doi/abs/10.1145/3458305.3478450)
 4.  **Hu, X.**, Zhang, L. (2021). _Angular‐spatial analysis of factors affecting the performance of light field reconstruction_. IET Image Process. [IET-IPR](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12203)
