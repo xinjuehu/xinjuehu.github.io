@@ -4,7 +4,7 @@
 
 <dl>
 <dt>Email</dt>
-<dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:xinjue.hu@uottawa.ca">Xinjue.Hu@uottawa.ca</a></dd>
+<dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:huxinjue@whut.edu.cn">huxinjue@whut.edu.cn</a></dd>
 <dt>Research Interests</dt>
 <dd>Immersive Media, Light Field, Virtual Reality, Smart Vessel, Vessel-Shore Communication, Vessel Remote Driving.</dd>
 </dl>
