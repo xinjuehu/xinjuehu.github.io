@@ -20,7 +20,7 @@
 
 ## Employment 
 |       Peroid              |      School       | Department | Position |
-|:--------------------------|:---------------------------|:--------------|:------------|
+|:--------------------------|:---------------------------|:---------------------------|:------------|
 | Jan.2023 ~ Present | Wuhan University of Technology  | Intelligent Transportation System Research Center | Assistant Reseacher |
 
 
