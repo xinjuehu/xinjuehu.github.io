@@ -6,7 +6,12 @@
 <dt>电子邮箱 (Email)</dt>
 <dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:huxinjue@whut.edu.cn">huxinjue@whut.edu.cn</a></dd>
 <dt>研究领域 (Research Interests)</dt>
-<dd>沉浸式多媒体 (Immersive Media), 光场 (Light Field), 虚拟现实 (Virtual Reality), 智能船舶 (Intelligent Vessel), 船岸通信系统 (Vessel-Shore Communication), 船舶远程驾驶 (Vessel Remote Driving), 船舶航行虚拟仿真 (Virtual Testing of Vessel Navigation).</dd>
+<dd>沉浸式多媒体 (Immersive Media)</dd>
+<dd>光场 (Light Field)</dd>
+<dd>虚拟现实 (Virtual Reality)</dd>
+<dd>智能船舶 (Intelligent Vessel)</dd>
+<dd>船岸通信系统 (Vessel-Shore Communication)</dd>
+<dd>船舶航行虚拟仿真 (Virtual Testing of Vessel Navigation)</dd>
 </dl>
 [\[Google Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
