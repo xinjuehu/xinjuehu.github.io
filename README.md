@@ -25,7 +25,7 @@
 
 ## 工作履历 (Employment) 
 
-|       日期 (Peroid)              |      学校 (School)       | 部门 (Department) | 职称 (Position) |
+|       日期 (Peroid)              |      机构 (Organization)       | 部门 (Department) | 职称 (Position) |
 |:--------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------|
 | 2023年1月 (Jan.2023) ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology)  | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 助理研究员 (Assistant Reseacher) |
 
