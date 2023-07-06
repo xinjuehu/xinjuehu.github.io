@@ -1,31 +1,31 @@
-## Assistant Reseacher
- **Intelligent Transportation System Research Center** <br>
- **Wuhan University of Technology** <br>
+## 助理研究员 (Assistant Reseacher)
+ **智能交通系统研究中心 (Intelligent Transportation System Research Center)** <br>
+ **武汉理工大学 (Wuhan University of Technology)** <br>
 
 <dl>
-<dt>Email</dt>
+<dt>电子邮箱 (Email)</dt>
 <dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:huxinjue@whut.edu.cn">huxinjue@whut.edu.cn</a></dd>
-<dt>Research Interests</dt>
-<dd>Immersive Media, Light Field, Virtual Reality, Smart Vessel, Vessel-Shore Communication, Vessel Remote Driving.</dd>
+<dt>研究领域 (Research Interests)</dt>
+<dd>沉浸式多媒体 (Immersive Media), 光场 (Light Field), 虚拟现实 (Virtual Reality), 智能船舶 (Intelligent Vessel), 船岸通信系统 (Vessel-Shore Communication), 船舶远程驾驶 (Vessel Remote Driving), 船舶航行虚拟仿真 (Virtual Testing of Vessel Navigation).</dd>
 </dl>
-[\[Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
+[\[Google Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
-## Education
+## 教育背景 (Education)
 
-|       Peroid              |      School       | Major | Degree/Position | Supervisor |
+|       日期 (Peroid)              |      学校 (School)       | 专业 (Major) | 学历学位 (Degree) | 导师 (Supervisor) |
 |:--------------------------|:---------------------------|:--------------|:------------|:------------|
-| Sep.2013 ~ Jun.2017 | Wuhan University  | Electronic Information Engineering | Bachelor | None |
-| Jun.2017 ~ Nov.2022 | Beijing University of Posts and Telecommunications | Information and Communication Engineering  | Ph.D. | Lin Zhang |
-| Sep.2020 ~ Dec.2022 | University of Ottawa | Electrical and Computer Engineering | Ph.D. (Second Doctoral Degree) | Shervin Shirmohammadi |
+| 2013年9月 (Sep.2013) ~ 2017年6月 (Jun.2017) | 武汉大学 (Wuhan University)  | 电子信息工程 (Electronic Information Engineering) | 学士 (Bachelor) | 无 (None) |
+| 2017年6月 (Jun.2017) ~ 2022年11月 (Nov.2022) | 北京邮电大学 (Beijing University of Posts and Telecommunications) | 信息与通信工程 (Information and Communication Engineering)  | 博士 (Ph.D.) | 张琳 (Lin Zhang) |
+| 2020年9月 (Sep.2020) ~ 2022年12月 (Dec.2022) | 渥太华大学 (University of Ottawa) | 电子与计算机工程 (Electrical and Computer Engineering) | 博士（博士第二博士学位） （Ph.D. (Second Doctoral Degree)） | Shervin Shirmohammadi |
 
-## Employment 
+## 工作履历 (Employment) 
 
-|       Peroid              |      School       | Department | Position |
+|       日期 (Peroid)              |      学校 (School)       | 部门 (Department) | 职称 (Position) |
 |:--------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------|
-| Jan.2023 ~ Present | Wuhan University of Technology  | Intelligent Transportation System Research Center | Assistant Reseacher |
+| 2023年1月 (Jan.2023) ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology)  | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 助理研究员 (Assistant Reseacher) |
 
 
-## Publication
+## 学术发表 (Publication)
 1.   Li, S., Xu, Z., Liu, J., **Hu, X.** _Towards the Testing and Validation of Autonomous Ships: Design of a Variable Stability Ship Control System_. [J]. Journal of Marine Science and Engineering, 2023, 11(7): 1274. [JMSE](https://www.mdpi.com/2077-1312/11/7/1274)
 2.   **Hu, X.**, Wang, C., Zhang, L., Chen, G., & Shirmohammadi, S. _Edge-Assisted Virtual Viewpoint Generation for Immersive Light Field_. [J]. IEEE MultiMedia (Early Access), 2022. [IEEE-MM](https://ieeexplore.ieee.org/document/10002420)
 3.  **Hu, X.**, Pan, Y., Wang, Y., Zhang, L., & Shirmohammadi, S. _Multiple Description Coding for Best-Effort Delivery of Light Field Video Using GNN-Based Compression_. [J]. IEEE Transactions on Multimedia, 2023, 25: 690-705. [TMM](https://ieeexplore.ieee.org/abstract/document/9625786)
