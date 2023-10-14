@@ -33,6 +33,7 @@
 
 ## 学术发表 (Publication)
 1. Shen, W., Yao, J., **Hu, X.***, Liu, J., Li, S. _TShip dynamics model identification based on Semblance least square support vector machine_. [J]. Ocean Engineering, 2023, 287(2): 115908. [OE'23SW](https://www.sciencedirect.com/science/article/pii/S0029801823022928)
+1. Wang, C., **Hu, X.**, Zhang, L. _Edge-based Joint User Association and Resource Allocation for Light Field Metaverse Systems_. [C]// 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom). 2023: 676-677. [MetaCom'23](https://ieeexplore.ieee.org/document/10271905)
 1. Liu, T., Li, S., **Hu, X.***, Guan, H., Liu, J. _Survey on existing technologies in autopilot systems: current status and future perspectives_. [C]// 7th International Conference on Transportation Information and Safety (ICTIS). 2023: 1409-1416. [ICTIS'17LT](https://ieeexplore.ieee.org/document/10243659)
 1. Wang, G., Li, S., Liu, J., **Hu, X.***, Guan, H. _Survey on Ship Berthing Control: Current Status and Future Perspectives_. [C]// 7th International Conference on Transportation Information and Safety (ICTIS). 2023: 1417-1423. [ICTIS'17WG](https://ieeexplore.ieee.org/document/10243690)
 1. He, J., Li, S., Guan, H., **Hu, X.**, Liu, J. _Ship Heading Control Based on Model Reference Adaptive Control_. [C]// 7th International Conference on Transportation Information and Safety (ICTIS). 2023: 1437-1442. [ICTIS'17HJ](https://ieeexplore.ieee.org/document/10243680)
