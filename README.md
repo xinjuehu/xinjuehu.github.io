@@ -26,10 +26,10 @@
 | 2017年6月 (Jun.2017) ~ 2022年11月 (Nov.2022) | 北京邮电大学 (Beijing University of Posts and Telecommunications) | 信息与通信工程 (Information and Communication Engineering)  | 博士 (Ph.D.) | 张琳 (Lin Zhang) |
 | 2020年9月 (Sep.2020) ~ 2022年12月 (Dec.2022) | 渥太华大学 (University of Ottawa) | 电子与计算机工程 (Electrical and Computer Engineering) | 博士（第二博士学位） （Ph.D. (Second Doctoral Degree)） | Shervin Shirmohammadi |
 
-## 工作履历 (Employment) 600
+## 工作履历 (Employment)
 <table style="width: 600px;">
     <tr>
-        <td> <b>日期 (Peroid)</b> </td>
+        <td> <font color="black"><b>日期 (Peroid)</b></font> </td>
         <td> <b>机构 (Organization)</b> </td>
         <td> <b>部门 (Department)</b> </td>
         <td> <b>职称 (Position)</b> </td>
