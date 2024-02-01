@@ -16,7 +16,7 @@
 <dd>光场 (Light Field)</dd>
 <dd>虚拟现实 (Virtual Reality)</dd>
 </dl>
-[\[Google Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
+[\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
 ## 教育背景 (Education)
 
