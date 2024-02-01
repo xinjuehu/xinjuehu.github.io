@@ -30,9 +30,9 @@
 <table style="width: 600px;">
     <tr>
         <td> <font color="black"><b>日期 (Peroid)</b></font> </td>
-        <td> <b>机构 (Organization)</b> </td>
-        <td> <b>部门 (Department)</b> </td>
-        <td> <b>职称 (Position)</b> </td>
+        <td> <font color="black"<b>机构 (Organization)</b></font> </td>
+        <td> <font color="black"<b>部门 (Department)</b></font> </td>
+        <td> <font color="black"<b>职称 (Position)</b></font> </td>
     </tr>
     <tr>
         <td rowspan = "2"> 2024年2月（Feb.2024） ~ 至今 (Present) </td>
