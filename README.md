@@ -30,8 +30,8 @@
 
 |       日期 (Peroid)              |      机构 (Organization)       | 部门 (Department) | 职称 (Position) |
 |:--------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------|
-| 2024年2月（Feb.2024） ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology)  | 智能交通系统研究中心 (Intelligent Transportation System Research Center) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 特设副研究员 (Associate Professor/Reseacher) |
-| 2023年1月 (Jan.2023) ~ 2024年2月（Feb.2024） | 武汉理工大学 (Wuhan University of Technology)  | 智能交通系统研究中心 (Intelligent Transportation System Research Center) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 助理研究员 (Assistant Professor/Reseacher) |
+| 2024年2月（Feb.2024） ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 特设副研究员 (Associate Professor/Reseacher) |
+| 2023年1月 (Jan.2023) ~ 2024年2月（Feb.2024） | 武汉理工大学 (Wuhan University of Technology) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 助理研究员 (Assistant Professor/Reseacher) |
 | 2023年3月 (Mar.2023) ~ 至今 (Present) | 中国船级社 (China Classification Society, CCS) | 武汉规范研究所 （CCS Wuhan Rules&Research Institute）| 挂职锻炼 (Secondment) |
 
 
