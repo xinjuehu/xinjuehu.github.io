@@ -29,7 +29,7 @@
 ## 工作履历 (Employment) 
 <table width="125%">
     <tr>
-        <td>     日期 (Peroid)     </td>
+        <td>     <b>日期 (Peroid)</b>     </td>
         <td>     机构 (Organization)     </td>
         <td>     部门 (Department)     </td>
         <td>     职称 (Position)     </td>
