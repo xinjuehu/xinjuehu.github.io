@@ -1,6 +1,9 @@
 ## 特设副研究员 (Associate Professor/Reseacher)
- **智能交通系统研究中心，武汉理工大学 (Intelligent Transportation System Research Center, Wuhan University of Technology)** <br>
- **水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety）** <br>
+ **武汉理工大学智能交通系统研究中心** <br>
+ **(Intelligent Transportation System Research Center, Wuhan University of Technology)** <br>
+ **水路交通控制全国重点实验室** <br>
+ **(State Key Laboratory of Maritime Technology and Safety)** <br>
+
 
 <dl>
 <dt>电子邮箱 (Email)</dt>
