@@ -30,8 +30,8 @@
 <table>
     <tr>
         <td> <b>日期 (Peroid)</b> </td>
-        <td style="width: 150px;"> <b>机构 (Organization)</b> </td>
-        <td style="width: 150px;"> <b>部门 (Department)</b> </td>
+        <td style="width: 200px;"> <b>机构 (Organization)</b> </td>
+        <td style="width: 200px;"> <b>部门 (Department)</b> </td>
         <td> <b>职称 (Position)</b> </td>
     </tr>
     <tr>
