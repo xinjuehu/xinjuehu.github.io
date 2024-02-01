@@ -27,7 +27,7 @@
 | 2020年9月 (Sep.2020) ~ 2022年12月 (Dec.2022) | 渥太华大学 (University of Ottawa) | 电子与计算机工程 (Electrical and Computer Engineering) | 博士（第二博士学位） （Ph.D. (Second Doctoral Degree)） | Shervin Shirmohammadi |
 
 ## 工作履历 (Employment) 
-<table style="width: 1000px;">
+<table style="width: 800px;">
     <tr>
         <td> <b>日期 (Peroid)</b> </td>
         <td> <b>机构 (Organization)</b> </td>
