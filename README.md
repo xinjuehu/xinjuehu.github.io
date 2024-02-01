@@ -1,17 +1,17 @@
-## 助理研究员 (Assistant Reseacher)
- **智能交通系统研究中心 (Intelligent Transportation System Research Center)** <br>
- **武汉理工大学 (Wuhan University of Technology)** <br>
+## 特设副研究员 (Associate Professor/Reseacher)
+ **智能交通系统研究中心，武汉理工大学 (Intelligent Transportation System Research Center, Wuhan University of Technology)** <br>
+ **水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety）** <br>
 
 <dl>
 <dt>电子邮箱 (Email)</dt>
 <dd><a href="mailto:huxinjue@126.com">huxinjue@126.com</a>, <a href="mailto:huxinjue@whut.edu.cn">huxinjue@whut.edu.cn</a></dd>
 <dt>研究领域 (Research Interests)</dt>
-<dd>沉浸式多媒体 (Immersive Media)</dd>
-<dd>光场 (Light Field)</dd>
-<dd>虚拟现实 (Virtual Reality)</dd>
 <dd>智能船舶 (Intelligent Vessel)</dd>
 <dd>船岸通信系统 (Vessel-Shore Communication)</dd>
 <dd>船舶航行虚拟仿真 (Virtual Testing of Vessel Navigation)</dd>
+<dd>沉浸式多媒体 (Immersive Media)</dd>
+<dd>光场 (Light Field)</dd>
+<dd>虚拟现实 (Virtual Reality)</dd>
 </dl>
 [\[Google Scholar\]](https://scholar.google.com/citations?user=-EtTRK0AAAAJ&hl=en)  [\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
 
@@ -27,7 +27,8 @@
 
 |       日期 (Peroid)              |      机构 (Organization)       | 部门 (Department) | 职称 (Position) |
 |:--------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------|
-| 2023年1月 (Jan.2023) ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology)  | 智能交通系统研究中心 (Intelligent Transportation System Research Center) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 助理研究员 (Assistant Reseacher) |
+| 2024年2月（Feb.2024） ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology)  | 智能交通系统研究中心 (Intelligent Transportation System Research Center) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 特设副研究员 (Associate Professor/Reseacher) |
+| 2023年1月 (Jan.2023) ~ 2024年2月（Feb.2024） | 武汉理工大学 (Wuhan University of Technology)  | 智能交通系统研究中心 (Intelligent Transportation System Research Center) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 助理研究员 (Assistant Professor/Reseacher) |
 | 2023年3月 (Mar.2023) ~ 至今 (Present) | 中国船级社 (China Classification Society, CCS) | 武汉规范研究所 （CCS Wuhan Rules&Research Institute）| 挂职锻炼 (Secondment) |
 
 
