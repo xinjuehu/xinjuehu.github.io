@@ -29,10 +29,10 @@
 ## 工作履历 (Employment) 
 <table>
     <tr>
-        <td> 日期 (Peroid) </td>
-        <td> 机构 (Organization) </td>
-        <td> 部门 (Department) </td>
-        <td> 职称 (Position) </td>
+        <td>     日期 (Peroid)     </td>
+        <td>     机构 (Organization)     </td>
+        <td>     部门 (Department)     </td>
+        <td>     职称 (Position)     </td>
     </tr>
     <tr>
         <td rowspan = "2"> 2024年2月（Feb.2024） ~ 至今 (Present) </td>
