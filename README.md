@@ -27,21 +27,36 @@
 | 2020年9月 (Sep.2020) ~ 2022年12月 (Dec.2022) | 渥太华大学 (University of Ottawa) | 电子与计算机工程 (Electrical and Computer Engineering) | 博士（第二博士学位） （Ph.D. (Second Doctoral Degree)） | Shervin Shirmohammadi |
 
 ## 工作履历 (Employment) 
-<table width="150%">
+<table style="width: 500px;">
     <tr>
-        <td>     <b>日期 (Peroid)</b>     </td>
-        <td>     机构 (Organization)     </td>
-        <td>     部门 (Department)     </td>
-        <td>     职称 (Position)     </td>
+        <td> <b>日期 (Peroid)</b> </td>
+        <td> <b>机构 (Organization)</b> </td>
+        <td> <b>部门 (Department)</b> </td>
+        <td> <b>职称 (Position)</b> </td>
     </tr>
     <tr>
         <td rowspan = "2"> 2024年2月（Feb.2024） ~ 至今 (Present) </td>
-        <td> 武汉理工大学 (Wuhan University of Technology) </td>
+        <td> 武汉理工大学 (Wuhan University of Technology, WUT) </td>
         <td> 智能交通系统研究中心 (Intelligent Transportation System Research Center) </td>
         <td rowspan = "2"> 特设副研究员 (Associate Professor/Reseacher) </td>
     </tr>
     <tr>
         <td colspan = "2"> 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety）</td>
+    </tr>
+    <tr>
+        <td rowspan = "2"> 2023年1月 (Jan.2023) ~ 2024年2月（Feb.2024） </td>
+        <td> 武汉理工大学 (Wuhan University of Technology, WUT) </td>
+        <td> 智能交通系统研究中心 (Intelligent Transportation System Research Center) </td>
+        <td rowspan = "2"> 助理研究员 (Assistant Professor/Reseacher) </td>
+    </tr>
+    <tr>
+        <td colspan = "2"> 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety）</td>
+    </tr>
+    <tr>
+        <td> 2023年3月 (Mar.2023) ~ 至今 (Present) </td>
+        <td> 中国船级社 (China Classification Society, CCS) </td>
+        <td> 武汉规范研究所 （CCS Wuhan Rules&Research Institute）</td>
+        <td> 挂职锻炼 (Secondment) </td>
     </tr>
 </table>
 
