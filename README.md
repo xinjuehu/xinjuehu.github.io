@@ -22,9 +22,9 @@
 
 |       日期 (Peroid)              |      学校 (School)       | 专业 (Major) | 学历学位 (Degree) | 导师 (Supervisor) |
 |:--------------------------|:---------------------------|:--------------|:------------|:------------|
-| 2013年9月 (Sep.2013) ~ 2017年6月 (Jun.2017) | 武汉大学 (Wuhan University)  | 电子信息工程 (Electronic Information Engineering) | 学士 (Bachelor) | 无 (None) |
-| 2017年6月 (Jun.2017) ~ 2022年11月 (Nov.2022) | 北京邮电大学 (Beijing University of Posts and Telecommunications) | 信息与通信工程 (Information and Communication Engineering)  | 博士 (Ph.D.) | 张琳 (Lin Zhang) |
 | 2020年9月 (Sep.2020) ~ 2022年12月 (Dec.2022) | 渥太华大学 (University of Ottawa) | 电子与计算机工程 (Electrical and Computer Engineering) | 博士（第二博士学位） （Ph.D. (Second Doctoral Degree)） | Shervin Shirmohammadi |
+| 2017年6月 (Jun.2017) ~ 2022年11月 (Nov.2022) | 北京邮电大学 (Beijing University of Posts and Telecommunications) | 信息与通信工程 (Information and Communication Engineering)  | 博士 (Ph.D.) | 张琳 (Lin Zhang) |
+| 2013年9月 (Sep.2013) ~ 2017年6月 (Jun.2017) | 武汉大学 (Wuhan University)  | 电子信息工程 (Electronic Information Engineering) | 学士 (Bachelor) | 无 (None) |
 
 ## 工作履历 (Employment)
 <table style="width: 600px;">
