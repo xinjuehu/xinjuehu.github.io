@@ -94,7 +94,7 @@
 1. **Xinjue Hu**, Lin Zhang, Shervin Shirmohammadi, AI-Assisted Light Field Depth Estimation and Compression, 2nd JPEG Pleno Workshop on Learning-Based Light Field Coding Proceedings, ISO/IEC JTC1/SC29/WG1, wg1n100308, Online, September 21, 2022.  [JPEG-Pleno'22](https://jpeg.org/items/20221110_2nd_jpeg_pleno_workshop_on_learning-based_light_field_coding_proceedings.html)
 
 ## 活动经历(Activities)
-**审稿人(Reviewer)**:
+### 审稿人(Reviewer):
 1. IEEE Multimedia (SCI)
 1. IEEE Transactions on Multimedia (SCI)
 1. ACM Transactions on Multimedia Computing Communications and Applications (SCI)
@@ -107,12 +107,12 @@
 1. IEEE Transactions on Communications (SCI)
 1. IET Image Processing (SCI)
 
-**协会/学会(Technical Societies)**:
+### 协会/学会(Technical Societies):
 1. 会员(Member), 电气与电子工程师协会 (Institute of Electrical and Electronics Engineers, IEEE)
 1. 会员(Member), 国际计算机协会 (Association for Computing Machinery, ACM)
 1. 会员(Member), 中国公路学会 (China Highway and Transportation Society, CHTS)
 
-**志愿服务工作(Volunteer Service)**
+### 志愿服务工作(Volunteer Service):
 1. 秘书 (Secretary), 中国智能交通协会水路交通分委会秘书处 (Secretariat of Waterborne Transportation Specialised Committee, China Intelligent Transportation Systems Association)
 
 ## 授课 (Teaching)
