@@ -44,7 +44,7 @@
         <td colspan = "2"> 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety）</td>
     </tr>
     <tr>
-        <td> 2023年3月 (Mar.2023) ~ 至今 (Present) </td>
+        <td> 2023年3月 (Mar.2023) ~ 2024年3月 (Mar.2024) </td>
         <td> 中国船级社 (China Classification Society, CCS) </td>
         <td> 武汉规范研究所 （CCS Wuhan Rules&Research Institute）</td>
         <td> 挂职锻炼 (Secondment) </td>
