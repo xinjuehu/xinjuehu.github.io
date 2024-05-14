@@ -110,7 +110,6 @@
 ### 协会/学会(Technical Societies):
 1. 会员(Member), 电气与电子工程师协会 (Institute of Electrical and Electronics Engineers, IEEE)
 1. 会员(Member), 国际计算机协会 (Association for Computing Machinery, ACM)
-1. 会员(Member), 中国公路学会 (China Highway and Transportation Society, CHTS)
 
 ### 志愿服务工作(Volunteer Service):
 1. 秘书 (Secretary), 中国智能交通协会水路交通分委会秘书处 (Secretariat of Waterborne Transportation Specialised Committee, China Intelligent Transportation Systems Association)
