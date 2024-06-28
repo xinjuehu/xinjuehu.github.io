@@ -1,4 +1,4 @@
-## 特设副研究员 (Associate Professor/Reseacher)
+## 副研究员 (Associate Professor/Reseacher)
  **武汉理工大学智能交通系统研究中心** <br>
  **(Intelligent Transportation System Research Center, Wuhan University of Technology)** <br>
  **水路交通控制全国重点实验室** <br>
@@ -108,6 +108,7 @@
 1. IET Image Processing (SCI)
 
 ### 协会/学会(Technical Societies):
+1. 高级会员(Senior Member), 中国造船工程学会 (the Chinese Society of Naval Architects and Marine Engineers, CSNAME)
 1. 会员(Member), 电气与电子工程师协会 (Institute of Electrical and Electronics Engineers, IEEE)
 1. 会员(Member), 国际计算机协会 (Association for Computing Machinery, ACM)
 
@@ -116,3 +117,4 @@
 
 ## 授课 (Teaching)
 1. 新一代航运系统导论 (Introduction to Next Generation Shipping Systems): 2024春季学期(Spring '24)
+1. 无人驾驶船导航控制创新性开放实验 (Innovative Open Experiment on Navigation Control for Unmanned Vessels): 2024春季学期(Spring '24)
