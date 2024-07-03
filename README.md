@@ -97,6 +97,7 @@
 ### 审稿人(Reviewer):
 1. IEEE Multimedia (SCI)
 1. IEEE Transactions on Multimedia (SCI)
+1. IEEE Transactions on Broadcasting (SCI)
 1. ACM Transactions on Multimedia Computing Communications and Applications (SCI)
 1. IEEE Transactions on Circuits and Systems for Video Technology (SCI)
 1. International Conference on Transportation Information and Safety (EI)
