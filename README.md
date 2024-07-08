@@ -110,6 +110,7 @@
 
 ### 协会/学会(Technical Societies):
 1. 高级会员(Senior Member), 中国造船工程学会 (the Chinese Society of Naval Architects and Marine Engineers, CSNAME)
+1. 会员(Member), 中国智能交通协会 (China Intelligent Transportation Association, ITS CHINA)
 1. 会员(Member), 电气与电子工程师协会 (Institute of Electrical and Electronics Engineers, IEEE)
 1. 会员(Member), 国际计算机协会 (Association for Computing Machinery, ACM)
 
