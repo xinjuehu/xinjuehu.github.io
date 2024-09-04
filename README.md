@@ -123,5 +123,5 @@
 1. 秘书 (Secretary), 中国智能交通协会水路交通分委会秘书处 (Secretariat of Waterborne Transportation Specialised Committee, China Intelligent Transportation Systems Association)
 
 ## 授课 (Teaching)
-1. 新一代航运系统导论 (Introduction to Next Generation Shipping Systems): 2024春季学期(Spring '24)
+1. 新一代航运系统导论 (Introduction to Next Generation Shipping Systems): 2024春/秋季学期(Spring/Fall '24)
 1. 无人驾驶船导航控制创新性开放实验 (Innovative Open Experiment on Navigation Control for Unmanned Vessels): 2024春季学期(Spring '24)
