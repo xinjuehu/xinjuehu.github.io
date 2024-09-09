@@ -22,9 +22,9 @@
 
 |       日期 (Peroid)              |      学校 (School)       | 专业 (Major) | 学历学位 (Degree) | 导师 (Supervisor) |
 |:--------------------------|:---------------------------|:--------------|:------------|:------------|
-| 2020年9月 (Sep.2020) ~ 2022年12月 (Dec.2022) | 渥太华大学 (University of Ottawa) | 电子与计算机工程 (Electrical and Computer Engineering) | 博士（第二博士学位） （Ph.D. (Second Doctoral Degree)） | Shervin Shirmohammadi |
+| 2020年9月 (Sep.2020) ~ 2022年12月 (Dec.2022) | 渥太华大学 (University of Ottawa) | 电子与计算机工程 (Electrical and Computer Engineering) | 博士 (第二博士学位) (Ph.D. (Second Doctoral Degree)) | Shervin Shirmohammadi |
 | 2017年9月 (Sep.2017) ~ 2022年11月 (Nov.2022) | 北京邮电大学 (Beijing University of Posts and Telecommunications) | 信息与通信工程 (Information and Communication Engineering)  | 博士 (Ph.D.) | 张琳 (Lin Zhang) |
-| 2013年9月 (Sep.2013) ~ 2017年6月 (Jun.2017) | 武汉大学 (Wuhan University)  | 电子信息工程 (Electronic Information Engineering) | 学士 (Bachelor) | 无 (None) |
+| 2013年9月 (Sep.2013) ~ 2017年6月 (Jun.2017) | 武汉大学 (Wuhan University) | 电子信息工程 (Electronic Information Engineering) | 学士 (Bachelor) | 无 (None) |
 
 ## 工作履历 (Employment)
 <table style="width: 600px;">
@@ -34,41 +34,48 @@
         <td> <font color="black"><b>部门 (Department)</b></font> </td>
         <td> <font color="black"><b>职称 (Position)</b></font> </td>
     </tr>
+   <tr>
+        <td> 2024年5月 (May.2024) ~ 至今 (Present) </td>
+        <td> 湖北东湖实验室 (CHubei East Lake Laboratory) </td>
+        <td> 智能船用装备技术创新中心 (Intelligent Marine Equipment Technology Innovation Center)</td>
+        <td> 副研究员 (Associate Professor/Reseacher) </td>
+    </tr>
     <tr>
-        <td rowspan = "2"> 2024年2月（Feb.2024） ~ 至今 (Present) </td>
+        <td rowspan = "2"> 2024年2月 (Feb.2024) ~ 至今 (Present) </td>
         <td> 武汉理工大学 (Wuhan University of Technology, WUT) </td>
         <td> 智能交通系统研究中心 (Intelligent Transportation System Research Center) </td>
         <td rowspan = "2"> 特设副研究员 (Associate Professor/Reseacher) </td>
     </tr>
     <tr>
-        <td colspan = "2"> 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety）</td>
+        <td colspan = "2"> 水路交通控制全国重点实验室 (State Key Laboratory of Maritime Technology and Safety)</td>
     </tr>
     <tr>
         <td> 2023年3月 (Mar.2023) ~ 2024年3月 (Mar.2024) </td>
         <td> 中国船级社 (China Classification Society, CCS) </td>
-        <td> 武汉规范研究所 （CCS Wuhan Rules&Research Institute）</td>
+        <td> 武汉规范研究所 (CCS Wuhan Rules&Research Institute)</td>
         <td> 挂职锻炼 (Secondment) </td>
     </tr>
     <tr>
-        <td rowspan = "2"> 2023年1月 (Jan.2023) ~ 2024年2月（Feb.2024） </td>
+        <td rowspan = "2"> 2023年1月 (Jan.2023) ~ 2024年2月(Feb.2024) </td>
         <td> 武汉理工大学 (Wuhan University of Technology, WUT) </td>
         <td> 智能交通系统研究中心 (Intelligent Transportation System Research Center) </td>
         <td rowspan = "2"> 助理研究员 (Assistant Professor/Reseacher) </td>
     </tr>
     <tr>
-        <td colspan = "2"> 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety）</td>
+        <td colspan = "2"> 水路交通控制全国重点实验室 (State Key Laboratory of Maritime Technology and Safety)</td>
     </tr>
 </table>
 
 <!-- |       日期 (Peroid)              |      机构 (Organization)       | 部门 (Department) | 职称 (Position) |
 |:--------------------------|:------------------------------------------------------|:------------------------------------------------------|:------------------------|
-| 2024年2月（Feb.2024） ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 特设副研究员 (Associate Professor/Reseacher) |
-| 2023年1月 (Jan.2023) ~ 2024年2月（Feb.2024） | 武汉理工大学 (Wuhan University of Technology) \\ 水路交通控制全国重点实验室（State Key Laboratory of Maritime Technology and Safety） | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 助理研究员 (Assistant Professor/Reseacher) |
-| 2023年3月 (Mar.2023) ~ 至今 (Present) | 中国船级社 (China Classification Society, CCS) | 武汉规范研究所 （CCS Wuhan Rules&Research Institute）| 挂职锻炼 (Secondment) | -->
+| 2024年2月(Feb.2024) ~ 至今 (Present) | 武汉理工大学 (Wuhan University of Technology) \\ 水路交通控制全国重点实验室(State Key Laboratory of Maritime Technology and Safety) | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 特设副研究员 (Associate Professor/Reseacher) |
+| 2023年1月 (Jan.2023) ~ 2024年2月(Feb.2024) | 武汉理工大学 (Wuhan University of Technology) \\ 水路交通控制全国重点实验室(State Key Laboratory of Maritime Technology and Safety) | 智能交通系统研究中心 (Intelligent Transportation System Research Center) | 助理研究员 (Assistant Professor/Reseacher) |
+| 2023年3月 (Mar.2023) ~ 至今 (Present) | 中国船级社 (China Classification Society, CCS) | 武汉规范研究所 (CCS Wuhan Rules&Research Institute)| 挂职锻炼 (Secondment) | -->
 
 
 ## 学术发表 (Publication)
 1. Yaqiong Lv, Xiaoling Guo, Shervin Shirmohammadi, Lu Qian, Yi Gong, **Xinjue Hu\***. Intelligent Cross-Working Condition Fault Detection and Diagnosis Using Isolation Forest and Adversarial Discriminant Domain Adaptation [J], IEEE Transactions on Instrumentation & Measurement, July, 2024, Accepted. SCI, JCR-Q1.
+1. Shijie Li, Ziqian Xu, Jialun Liu*, Keji Zhou, **Xinjue Hu**. Design and implementation of a model-following controller for autonomous surface ships based on actor-critic reinforcement learning, Ocean Engineering [J], 312, 119157, 2024. SCI, JCR-Q1. [OE'24SJL](https://www.sciencedirect.com/science/article/abs/pii/S0029801824024958)
 1. Yi Gong, Boyuan Yu, Lei Yang, Fanke Meng, Lei Liu, **Xinjue Hu**, Zhan Xu*. Toward next-generation networks: A blockchain-based approach for core network architecture and roaming identity verification [J] , Digital Communications and Networks, August, 2024, Early Access. SCI, JCR-Q1. [DCN'24](https://www.sciencedirect.com/science/article/pii/S2352864824000993?ref=pdf_download&fr=RR-2&rr=8b2858930cc1fa5a)
 1. Wenhe Shen, Jialun Liu, **Xinjue Hu\***, Shijie Li, Song Zhang. Research on Mechanism-Data Dual-Driven Ship Manoeuvring Mathematical Modeling, The 34th International Ocean and Polar Engineering Conference (ISOPE 2024), 3837-3844, Rhodes, Greece, June 16-21, 2024. EI. [ISOPE'24SW](https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE24/All-ISOPE24/ISOPE-I-24-540/546267)
 1. Yuxuan Duan, Jialun Liu, Song Zhang, **Xinjue Hu**, Shijie Li. Maneuvering prediction of a twin-propeller twin-rudder high-speed craft based on integrated CFD and empirical methods, The 34th International Ocean and Polar Engineering Conference (ISOPE 2024), 3869-3876, Rhodes, Greece, June 16-21, 2024. EI. [ISOPE'24DY](https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE24/All-ISOPE24/ISOPE-I-24-544/546200)
@@ -100,6 +107,7 @@
 
 ## 活动经历(Activities)
 ### 审稿人(Reviewer):
+1. Journal of Hydrodynamics (SCI)
 1. IEEE Multimedia (SCI)
 1. IEEE Transactions on Multimedia (SCI)
 1. IEEE Transactions on Broadcasting (SCI)
