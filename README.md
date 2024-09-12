@@ -16,7 +16,7 @@
 <dd>光场 (Light Field)</dd>
 <dd>虚拟现实 (Virtual Reality)</dd>
 </dl>
-[\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu)
+[\[ResearchGate\]](https://www.researchgate.net/profile/Xinjue_Hu) [\[ORCID\]](https://orcid.org/0000-0001-8304-9720)
 
 ## 教育背景 (Education)
 
