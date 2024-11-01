@@ -1,4 +1,5 @@
-## 副研究员 (Associate Professor/Reseacher), 博导 (Doctoral Supervisor)
+## 副研究员 (Associate Professor/Reseacher)
+## 博导 (Doctoral Supervisor)
  **武汉理工大学智能交通系统研究中心** <br>
  **(Intelligent Transportation System Research Center, Wuhan University of Technology)** <br>
  **水路交通控制全国重点实验室** <br>
