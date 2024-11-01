@@ -1,4 +1,4 @@
-## 副研究员 (Associate Professor/Reseacher)
+## 副研究员 (Associate Professor/Reseacher), 博导 (Doctoral Supervisor)
  **武汉理工大学智能交通系统研究中心** <br>
  **(Intelligent Transportation System Research Center, Wuhan University of Technology)** <br>
  **水路交通控制全国重点实验室** <br>
@@ -74,7 +74,8 @@
 
 
 ## 学术发表 (Publication)
-1. Yaqiong Lv, Xiaoling Guo, Shervin Shirmohammadi, Lu Qian, Yi Gong, **Xinjue Hu\***. Intelligent Cross-Working Condition Fault Detection and Diagnosis Using Isolation Forest and Adversarial Discriminant Domain Adaptation [J], IEEE Transactions on Instrumentation & Measurement, 27: 1-15, 2024. SCI, JCR-Q1. [TIM'24](https://ieeexplore.ieee.org/document/10677462/keywords#keywords)
+1. Wenhe Shen, **Xinjue Hu**, Jialun Liu*, Shijie Li, Hongdong Wang. A pre-trained multi-step prediction informer for ship motion prediction with a mechanism-data dual-driven framework, Engineering Applications of Artificial Intelligence [J], 139, Part A, 109523, 2025. SCI, JCR Q1. [EAAI'24](https://www.sciencedirect.com/science/article/abs/pii/S0952197624016816)
+1. Yaqiong Lv, Xiaoling Guo, Shervin Shirmohammadi, Lu Qian, Yi Gong, **Xinjue Hu\***. Intelligent Cross-Working Condition Fault Detection and Diagnosis Using Isolation Forest and Adversarial Discriminant Domain Adaptation [J], IEEE Transactions on Instrumentation & Measurement, 73: 1-15, 2024. SCI, JCR-Q1. [TIM'24](https://ieeexplore.ieee.org/document/10677462/keywords#keywords)
 1. Shijie Li, Ziqian Xu, Jialun Liu*, Keji Zhou, **Xinjue Hu**. Design and implementation of a model-following controller for autonomous surface ships based on actor-critic reinforcement learning, Ocean Engineering [J], 312, 119157, 2024. SCI, JCR-Q1. [OE'24SJL](https://www.sciencedirect.com/science/article/abs/pii/S0029801824024958)
 1. Yi Gong, Boyuan Yu, Lei Yang, Fanke Meng, Lei Liu, **Xinjue Hu**, Zhan Xu*. Toward next-generation networks: A blockchain-based approach for core network architecture and roaming identity verification [J] , Digital Communications and Networks, August, 2024, Early Access. SCI, JCR-Q1. [DCN'24](https://www.sciencedirect.com/science/article/pii/S2352864824000993?ref=pdf_download&fr=RR-2&rr=8b2858930cc1fa5a)
 1. Wenhe Shen, Jialun Liu, **Xinjue Hu\***, Shijie Li, Song Zhang. Research on Mechanism-Data Dual-Driven Ship Manoeuvring Mathematical Modeling, The 34th International Ocean and Polar Engineering Conference (ISOPE 2024), 3837-3844, Rhodes, Greece, June 16-21, 2024. EI. [ISOPE'24SW](https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE24/All-ISOPE24/ISOPE-I-24-540/546267)
@@ -104,6 +105,7 @@
 
 ## 特邀报告 (Invited Talks)
 1. **Xinjue Hu**, Lin Zhang, Shervin Shirmohammadi, AI-Assisted Light Field Depth Estimation and Compression, 2nd JPEG Pleno Workshop on Learning-Based Light Field Coding Proceedings, ISO/IEC JTC1/SC29/WG1, wg1n100308, Online, September 21, 2022.  [JPEG-Pleno'22](https://jpeg.org/items/20221110_2nd_jpeg_pleno_workshop_on_learning-based_light_field_coding_proceedings.html)
+1. **胡欣珏(Xinjue Hu)**, 水路交通智能运载器远程驾控技术研究(Research on Remote Driving and Control Technology of Intelligent Vehicles for Waterway Transportation), 第二届CCF中国智能汽车学术年会 (CIVS 2024): 首届人车物互联与安全论坛 (2nd CCF Intelligent Vehicles Symposium (CIVS 2024): Human-Vehicle-Object Interconnection and Security Forum), 武汉 (Wuhan, China), 2024年10月18日 (Oct. 18th, 2024).
 
 ## 活动经历(Activities)
 ### 审稿人(Reviewer):
