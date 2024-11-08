@@ -39,7 +39,7 @@
         <td> 2024年5月 (May.2024) ~ 至今 (Present) </td>
         <td> 湖北东湖实验室 (Hubei East Lake Laboratory) </td>
         <td> 智能船用装备技术创新中心 (Intelligent Marine Equipment Technology Innovation Center)</td>
-        <td> 副研究员 (Associate Professor/Reseacher) </td>
+        <td> 兼聘科研人员 (Concurrently Employed Reseacher) </td>
     </tr>
     <tr>
         <td rowspan = "2"> 2024年2月 (Feb.2024) ~ 至今 (Present) </td>
